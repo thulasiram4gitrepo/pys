@@ -66,6 +66,8 @@ print("sum of the two numbers is :" + str(sum))
 
 """
 
+"""
+
 first_number = float(input("first number: "))
 second_number = float(input("second number: "))
 
@@ -73,8 +75,13 @@ sum = first_number+second_number
 
 print("sum of the two numbers is :" + str(sum))
 
-
+"""
 ##############Strings#########################
+
+print("string example")
+
+
+
 
 
 
